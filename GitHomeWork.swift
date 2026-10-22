@@ -9,6 +9,12 @@ import Playgrounds
 let currentAge = nowYear - birthday
     print("возраст-\(currentAge)")
 
+    //multiplication table of 15
+    for a in 1...15{
+        for b in 1...15{
+            print("\(a)*\(b)=\(a*b)")
+        }
+    }
     
     
     
