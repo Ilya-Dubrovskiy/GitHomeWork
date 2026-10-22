@@ -2,8 +2,14 @@ import Playgrounds
 
 #Playground {
     print("Hello, Playground!")
-    var age = 26
-    let year = 2000
+    let birthday = 2000
     let name = "Ilya"
+    let nowYear = 2026
+    
+let currentAge = nowYear - birthday
+    print("возраст-\(currentAge)")
+
+    
+    
     
 }
