@@ -16,6 +16,7 @@ let currentAge = nowYear - birthday
         }
     }
     
+    var someDev = "Ivan"
     
     
 }
